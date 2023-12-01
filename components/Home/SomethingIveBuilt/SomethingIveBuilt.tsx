@@ -89,7 +89,7 @@ export default function SomethingIveBuilt() {
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
                   <p>I was responsible for all phases of system development, from design to front-end and back-end implementation, database construction, SEO measures, and final release.</p>
-                  <p>Even for pages containing rich dynamic content, we applied advanced SSR (Server-Side Rendering) technology to ensure appropriate indexing by Google search engines. The latest framework "Nuxt3" is adopted as the core of the technology.</p>
+                  <p>Even for pages containing rich dynamic content, we applied advanced SSR (Server-Side Rendering) technology to ensure appropriate indexing by Google search engines. The latest framework &rquo;Nuxt3 &lquo; is adopted as the core of the technology.</p>
                   <p>This approach allows for faster page loads and better SEO at the same time.</p>
                 </p>
               </div>
