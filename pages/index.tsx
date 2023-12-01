@@ -57,7 +57,7 @@ export default function Home() {
 
   console.log("Portfolio Rendered...");
   const meta = {
-    title: "Cheng Leong Kai",
+    title: "Milkhail Alif",
     description: `I am senior full-stack engineer with expertise in a variety of technologies, including Next.js, React, Vue.js, Node.js, Django, Laravel, WordPress. If you are interested in developing these products, please contact us.`,
     image: "/ProfileLogo.png",
     type: "website",
