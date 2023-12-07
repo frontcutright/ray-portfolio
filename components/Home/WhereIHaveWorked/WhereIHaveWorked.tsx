@@ -14,17 +14,17 @@ export default function WhereIHaveWorked() {
   // ? INFORMATIONAL the default value of barRef's class should be at the beginning translate-y-[0px]
   const GetDescription = () => {
     switch (DescriptionJob) {
-      case "Malaysia company and individual consignment development":
+      case "Singapore company and individual consignment development":
         return <Totle />;
-      case "Ariyes Online":
+      case "SLASH":
         return <ItechArt />;
-      case "SoftwareQ":
+      case "VINOVA":
         return <TrustToken />;
-      case "OPUS IT Service":
+      case "EDLUTION":
         return <StoryMkrs />;
     }
   };
-  const [DescriptionJob, setDescriptionJob] = React.useState("Malaysia company and individual consignment development");
+  const [DescriptionJob, setDescriptionJob] = React.useState("Singapore company and individual consignment development");
   return (
     <div
       data-aos="fade-up"
@@ -116,37 +116,37 @@ const CompaniesBar = (props) => {
         <div className="flex flex-row md:flex-col">
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={0}
-            CompanyName="Malaysia company and individual consignment development"
+            CompanyName="Singapore company and individual consignment development"
             BarPosition={34}
             BarAvobePosition={1}
-            DescriptionJob="Malaysia company and individual consignment development"
+            DescriptionJob="Singapore company and individual consignment development"
             CompanyNameBackgroundColorGreen={[true, false, false, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={1}
-            CompanyName="Ariyes Online"
+            CompanyName="SLASH"
             BarPosition={78}
             BarAvobePosition={129}
-            DescriptionJob="Ariyes Online"
+            DescriptionJob="SLASH"
             CompanyNameBackgroundColorGreen={[false, true, false, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={2}
-            CompanyName="SoftwareQ"
+            CompanyName="VINOVA"
             BarPosition={122}
             BarAvobePosition={257}
-            DescriptionJob="SoftwareQ"
+            DescriptionJob="VINOVA"
             CompanyNameBackgroundColorGreen={[false, false, true, false, false]}
             setDescriptionJob={props.setDescriptionJob}
           />
           <CompanyButton
             ButtonOrderOfcompanyNameBackgroundColorGreen={3}
-            CompanyName="OPUS IT Service"
+            CompanyName="EDLUTION"
             BarPosition={164}
             BarAvobePosition={385}
-            DescriptionJob="OPUS IT Service"
+            DescriptionJob="EDLUTION"
             CompanyNameBackgroundColorGreen={[false, false, false, true, false]}
             setDescriptionJob={props.setDescriptionJob}
           />

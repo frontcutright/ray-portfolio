@@ -21,7 +21,7 @@ export default function Totle() {
           {/* Title */}
           <span className="text-gray-200 sm:text-lg text-sm font-Arimo tracking-wide">
           Full Stack Engineer
-            <span className="text-AAsecondary"> @ Malaysia and Japanese company, individual consignment development</span>
+            <span className="text-AAsecondary"> @ Singapore and Japanese company, individual consignment development</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">

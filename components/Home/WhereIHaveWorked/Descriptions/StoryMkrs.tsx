@@ -25,7 +25,7 @@ export default function StoryMkrs() {
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
             Web Developer{" "}
-            <span className="text-AAsecondary">@ OPUS IT Service</span>
+            <span className="text-AAsecondary">@ EDLUTION</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">

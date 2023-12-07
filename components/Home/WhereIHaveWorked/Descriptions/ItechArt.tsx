@@ -22,7 +22,7 @@ export default function ItechArt() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Full Stack Engineer <span className="text-AAsecondary">@ Ariyes Online</span>
+            Full Stack Engineer <span className="text-AAsecondary">@ SLASH</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">

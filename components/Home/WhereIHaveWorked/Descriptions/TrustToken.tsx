@@ -20,7 +20,7 @@ export default function TrustToken() {
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
             Full-Stack Engineer{" "}
-            <span className="text-AAsecondary">@ SoftwareQ</span>
+            <span className="text-AAsecondary">@ VINOVA</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">

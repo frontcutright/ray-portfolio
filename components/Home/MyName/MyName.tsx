@@ -75,7 +75,7 @@ export default function MyName(props: { finishedLoading: boolean }) {
         }}
         className="text-gray-400 font-Header text-sm md:text-lg sm:text-md mt-10 tracking-wider"
       >
-        As a developer with 7 years of development experience, I acquire many skills.
+        As a developer with 8 years of development experience, I acquire many skills.
         <br />
         I am <span className="text-blue-500">senior full-stack engineer with expertise in a variety of technologies, including Next.js, React, Vue.js, Node.js, Django, Laravel, WordPress</span>.
       </motion.h3>
